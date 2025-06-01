@@ -3,6 +3,7 @@ Earn Heal Grow.
 This project contains files too large for direct upload to GitHub
 [Click here to download from Google Drive] 
 https://drive.google.com/file/d/14EeYUgThme7GVghb6njoJoT3alxtKAXs/view?usp=drivesdk
+
 MVP LifeLine AI App – Project Report
 Prototype Version ID: 123456
 Tagline: Earn. Heal. Grow.
@@ -138,11 +139,14 @@ Advanced AI Integrations for mood prediction and trauma-informed support
 Investor Outreach to scale development and onboarding
 This project isn’t just tech—it’s a mission. A mission to transform pain into purpose, silence into storytelling, and confusion into clarity.
 It’s not just an app. It’s a lifeline.
+
+
 MVP LifeLine AI App – Project Report
 Core Concept
 A revolutionary mobile platform empowering African youth to build income, heal emotionally, and grow professionally—powered by AI, built with purpose, and designed for dignity.
 It’s not just an app. It’s a lifeline.
 Core User Persona Development 
+
 Primary User Persona: Hope
 Name: Hope Nwafor
 Age: 22
@@ -162,11 +166,13 @@ Struggles to create CVs, portfolios, and pitch herself
 Limited internet/data access
 Has experienced guilt-tripping and toxic relationships
 Feels invisible on job platforms with no referrals
+
 How MVP LifeLine Helps
 Auto-generated LinkedIn assets and career tracker (Career Zone)
 SMS-based journaling and healing dashboard (Emotional Zone)
 Peer Healing Circles and digital hustle templates (Digital Hustle Hub)
 Offline job/Gig tracking and progress rewards
+
 Secondary User Persona: Sifiso
 Name: Sifiso Dlamini
 Age: 28
@@ -509,4 +515,92 @@ Competitors:
 Conclusion
 MVP LifeLine AI App stands out as a first-of-its-kind, holistic platform that uniquely combines income, emotional healing, and career growth for African youth. Its multi-language, offline-capable design and AI-driven features address deep pain points and unlock new pathways for sustainable success. The project is well-positioned for impactful growth, supported by a clear vision, a strong tech stack, and a comprehensive product strategy.
 
+# MVP LifeLine AI App
+
+**Prototype ID:** 123456  
+**Founder & Program Lead:** John Umoh (PL – Visionary Idea Foundry–Bwari FCT)  
+**ID Number:** FE/24/7874689
+
+> **“It’s not just an app. It’s a lifeline.”**
+
+---
+
+## About the Project
+
+MVP LifeLine AI App is a holistic, AI-powered platform designed to help African youth **heal emotionally**, **grow professionally**, and **earn with dignity**—even in areas with limited internet access.
+
+### Inspiration
+Born out of personal pain and collective frustration, this project addresses:
+- Joblessness
+- Emotional burnout
+- Lack of access to opportunity and clarity
+
+---
+
+## Features
+
+- **AI-powered journaling** with emotional tone analysis  
+- **Offline SMS/USSD support** for remote and rural users  
+- **Multilingual support** (Hausa, Yoruba, Igbo, Swahili, Arabic, French, Zulu)  
+- **Gamification** with streaks, badges & leaderboards  
+- **Career tools**: CV builder, LinkedIn optimization, gig tracking  
+- **Emotional manipulation detection**: gaslighting, guilt-tripping, etc.
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+- **Python** (Backend logic, AI integration)
+- **Dart + Flutter** (Cross-platform mobile app)
+- **FastAPI / Flask** (Backend APIs)
+- **JavaScript** (Web tools)
+
+### Platforms & Tools
+- **Figma** – UI/UX Design  
+- **Canva** – Branding & Presentation  
+- **Firebase** – Auth, notifications, analytics  
+- **Twilio / Africa's Talking** – SMS/USSD integration  
+- **PostgreSQL / Firebase / SQLite** – Data storage options  
+
+### APIs & AI Tools
+- **OpenAI / Google Gemini / Cohere** – Generative AI  
+- **Google Translate API / DeepL** – Language localization  
+- **Custom Prompt Engineering** – Emotional insight & manipulation detection  
+
+---
+
+## How to Run Locally (Coming Soon)
+
+We'll soon publish setup steps for:
+- Backend server
+- Flutter mobile app
+- USSD/SMS simulation
+- Local AI journaling tools
+
+---
+
+## Links
+
+- **UI Demo (Figma)**: [Figma Link Here](https://www.figma.com/)
+- **Presentation (Canva)**: [Canva Slide Deck](https://www.canva.com/)
+- **Pitch Video https://youtube.com/shorts/A0uyf3RL3go?si=m0r8hJc6YoNLNnb9
+- **Blog / Documentation**: *(To be added)*
+
+---
+
+## License
+
+MIT License. See `LICENSE` file for details.
+
+---
+
+## Connect
+
+**John Umoh**  
+Founder, MVP LifeLine AI App  
+PL – Visionary Idea Foundry–Bwari FCT  
+ID: FE/24/7874689  
+
+Let’s build a lifeline that transforms pain into purpose.
 
